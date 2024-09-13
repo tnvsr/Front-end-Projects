@@ -1,0 +1,32 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
+
+.elements{
+    display: flex;
+    border: 1.5px dotted black;
+    width: 430px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 160px;
+    background-color: lightblue;
+}
+
+.pic{
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-top: 40px;
+    margin-right: 10px;
+    width: 150px;
+    height: 120px;
+}
+
+.ele2{
+    margin-top: 25px;
+    margin-left: 10px;
+    display: block;
+    text-align: center;
+}
+
